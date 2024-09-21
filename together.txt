@@ -1,2 +1,3 @@
 this will be a collaborator. (Lillian)
+my project is about applying linear optimisation programme to solve the problem of minimising manpower cost for Hotel 1, so as to support the hotel to achieve the goal of maximising revenue. (Liillian)
 I'm one of the team member (Puffin)
